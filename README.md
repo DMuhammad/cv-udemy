@@ -1,2 +1,2 @@
-# portfolio-dicoding
-ini adalah project yang saya buat untuk menuntaskan submission 
+# cv-udemy
+ini adalah cv yang saya buat untuk bahan belajar di udemy 
